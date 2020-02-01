@@ -1,0 +1,36 @@
+name: ds
+channels:
+- pytorch
+- defaults
+- conda-forge
+dependencies:
+- python=3.7
+- pandas
+- jupyter
+- scikit-learn
+- seaborn
+- pandas-profiling
+- jupyter_contrib_nbextensions
+- ipywidgets
+- statsmodels
+- sqlalchemy
+- matplotlib
+- numpy
+- openssl
+- pillow
+- pip
+- pytorch
+- sqlite
+- kaggle
+- jupyterlab
+- nbconvert
+- nbformat
+- plotly
+- python-slugify
+- python-graphviz
+- scipy
+- requests
+- lockfile
+- pip:
+  - datasist
+  - pyitunes
